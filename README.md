@@ -1,10 +1,3 @@
-# 💫 About Me:
-🔭I’m currently learning Data Analyst<br>👯 I’m looking to collaborate on a Software Developer And Data analyst<br>🤝 I’m looking for help with Web development and Python project<br>⚡ Fun fact - I am lazy but smart
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__xyro_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajit-behera) 
-
 <h1 align="center">Hi 👋, I'm Subhrajit Behera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
