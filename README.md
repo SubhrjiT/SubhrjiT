@@ -35,6 +35,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img  src='https://randommeme-five.vercel.app/' style="height: 600px;"/>
 
 
