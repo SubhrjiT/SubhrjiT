@@ -10,9 +10,11 @@
 
 - 🤝 I’m looking for help with **Web development and Python project**
 
+- ⚡ Fun fact **- I am lazy but smart**
+
 - 📫 How to reach me **subhrajitbehera6370@gmail.com**
 
-- ⚡ Fun fact **- I am lazy but smart**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
