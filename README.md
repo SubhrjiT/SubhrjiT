@@ -8,7 +8,7 @@
 
 - 📊 Looking to Grow in Data Science **Seeking guidance and mentorship in data modeling, visualization, and analysis techniques. Ready to connect and learn from the pros!**
 
-- 👨‍💻 Portfolio link [https://subhrjit.github.io/Portfolio-Website/](https://subhrjit.github.io/Portfolio-Website/)
+- 👨‍💻 DO check out my [Portfolio Link](https://subhrjit.github.io/Portfolio-Website/)
 
 - 📫 How to reach me **subhrajitbehera6370@gmail.com**
 
