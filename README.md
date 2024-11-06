@@ -48,8 +48,13 @@
 </div>  </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SubhrjiT&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SubhrjiT&theme=radical&hide_border=true)<br/>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhrjiT&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 48%;"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhrjiT&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 48%;"/>
+
+</div>
 
 
 
