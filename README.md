@@ -54,5 +54,6 @@
 
 
 ###
+<br clear ="both">
 <img src="https://raw.githubusercontent.com/SubhrjiT/SubhrjiT/output/snake.svg" alt="Snake animation" />
 
