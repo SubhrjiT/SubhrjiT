@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhrajit Behera</h1>
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <h3 align="center">Aspiring Data Scientist</h3>
 
 - 🔭 Currently working on **Data Analysis - uncovering patterns and insights from data is my new obsession!**
