@@ -50,12 +50,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SubhrjiT&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SubhrjiT&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhrjiT&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img  src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
+###
+<img src="https://raw.githubusercontent.com/SubhrjiT/SubhrjiT/output/snake.svg" alt="Snake animation" />
 
