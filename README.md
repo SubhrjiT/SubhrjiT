@@ -3,17 +3,12 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🔭 Currently working on **Data Analysis - uncovering patterns and insights from data is my new obsession!**
-
-- 🤝 Open for Collabs **Always up for teaming up on Software Development and Data Analytics projects. Let's turn data into impact!**
-
-- 📊 Looking to Grow in Data Science **Seeking guidance and mentorship in data modeling, visualization, and analysis techniques. Ready to connect and learn from the pros!**
-
-- 👨‍💻 DO check out my [Portfolio](https://subhrjit.github.io/Portfolio-Website/)
-
-- 📫 How to reach me **subhrajitbehera6370@gmail.com**
-
-- ⚡ Fun fact **Fun Fact: I’m the "work smarter, not harder" type – lazy with a purpose!**
+🔭 Currently working on Data Engineering projects focused on building scalable ETL/ELT pipelines and analytics-ready datasets
+🤝 Open to Collaborate on Data Engineering, Cloud (Azure), and Data Analytics projects
+📊 Continuously Learning Data modeling, big data processing, and performance optimization techniques
+👨‍💻 Portfolio: https://subhrjit.github.io/Portfolio-Website/
+📫 Reach me at subhrajitbehera6370@gmail.com
+⚡ Fun fact: I enjoy optimizing workflows and automating repetitive tasks
 
 
 
