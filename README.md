@@ -9,7 +9,7 @@
   
 - 📊 Continuously Learning Data modeling, big data processing, and performance optimization techniques.
 
-- 👨‍💻 Portfolio: https://subhrjit.github.io/Portfolio-Website/
+- 👨‍💻 Portfolio: https://subhrajit-portfolio-site.vercel.app/
   
 - 📫 Reach me at subhrajitbehera6370@gmail.com
   
