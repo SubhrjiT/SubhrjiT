@@ -1,23 +1,37 @@
 <h1 align="center">Hi 👋, I'm Subhrajit Behera</h1>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<h3 align="center">Aspiring Data Scientist</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🔭 Currently working on Data Engineering projects focused on building scalable ETL/ELT pipelines and analytics-ready datasets.
-  
-- 🤝 Open to Collaborate on Data Engineering, Cloud (Azure), and Data Analytics projects.
-  
-- 📊 Continuously Learning Data modeling, big data processing, and performance optimization techniques.
+<h3 align="center">Data Engineer | Microsoft Fabric | Databricks</h3>
 
-- 👨‍💻 Portfolio: https://subhrajit-portfolio-site.vercel.app/
-  
-- 📫 Reach me at subhrajitbehera6370@gmail.com
-  
-- ⚡ Fun fact: I enjoy optimizing workflows and automating repetitive tasks
+---
 
+### 🚀 About Me
+- 🔭 Working on **end-to-end Data Engineering projects** (ETL/ELT pipelines, Lakehouse)
+- ⚡ Skilled in **Microsoft Fabric, Databricks, PySpark, SQL**
+- 📊 Hands-on with **Medallion Architecture (Bronze → Silver → Gold)**
+- ☁️ Experience with **Azure Data Services & Cloud-based pipelines**
+- 📈 Focused on **scalable data processing & performance optimization**
 
+---
 
+### 🤝 Collaboration
+- Open to **Data Engineering | Azure | Analytics projects**
 
+---
+
+### 🌐 Portfolio
+👉 https://subhrajit-portfolio-site.vercel.app/
+
+---
+
+### 📫 Contact
+- 📧 Email: subhrajitbehera6370@gmail.com
+
+---
+
+### ⚡ Fun Fact
+I love **automating workflows & optimizing data pipelines** 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhrajit-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-behera" height="30" width="40" /></a>
