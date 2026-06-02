@@ -95,16 +95,49 @@
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/subhrajit-behera
-
-📧 Email: subhrajitbehera6370@gmail.com
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/subhrajit-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-behera" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/suubhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suubhhh_" height="30" width="40" /></a>
 
+<a href="https://linkedin.com/in/subhrajit-behera" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/subhrajit-behera" target="_blank">
+  LinkedIn
+</a>
 
+<br><br>
+
+<a href="mailto:subhrajitbehera6370@gmail.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="30" />
+</a>
+&nbsp;
+<a href="mailto:subhrajitbehera6370@gmail.com">
+  Gmail
+</a>
+
+<br><br>
+
+<a href="https://github.com/SubhrjiT" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="30" />
+</a>
+&nbsp;
+<a href="https://github.com/SubhrjiT" target="_blank">
+  GitHub
+</a>
+
+<br><br>
+
+<a href="https://instagram.com/suubhhh_" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="30" />
+</a>
+&nbsp;
+<a href="https://instagram.com/suubhhh_" target="_blank">
+  Instagram
+</a>
+
+</p>
 
 ## ⚡ Fun Fact
 
