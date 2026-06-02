@@ -38,31 +38,126 @@ I love **automating workflows & optimizing data pipelines** 🚀
   
 <a href="https://instagram.com/suubhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suubhhh_" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 
 <div align="center">
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> 
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>    
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-</div>  </p>
 
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="55"/>
+</a>
+
+<a href="https://www.databricks.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" height="55"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
+<img src="https://img.icons8.com/color/96/microsoft.png" alt="Microsoft Fabric" height="55"/>
+</a>
+
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" height="55"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="55"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="55"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="55"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="55"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="55"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="55"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="55"/>
+</a>
+
+<a href="https://bitbucket.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="55"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="55"/>
+</a>
+
+</div>
+
+---
+
+### 🚀 Data Engineering Stack
+
+🔹 Azure Data Factory (ADF)  
+🔹 Azure Databricks  
+🔹 Microsoft Fabric  
+🔹 Delta Lake  
+🔹 Unity Catalog  
+🔹 ADLS Gen2  
+🔹 Azure Synapse Analytics  
+
+### 💻 Programming & Big Data
+
+🔹 Python  
+🔹 PySpark  
+🔹 Apache Spark  
+🔹 SQL  
+🔹 Pandas  
+🔹 Hadoop  
+🔹 Hive  
+
+### 📊 Analytics & BI
+
+🔹 Power BI  
+🔹 Tableau  
+
+### ☁️ Cloud & DevOps
+
+🔹 Azure  
+🔹 AWS  
+🔹 Azure DevOps  
+🔹 Git  
+🔹 GitHub  
+🔹 Bitbucket  
+🔹 Linux  
+
+### 🏗️ Data Engineering Concepts
+
+🔹 ETL / ELT Pipelines  
+🔹 Medallion Architecture  
+🔹 Lakehouse Architecture  
+🔹 Data Modeling  
+🔹 Incremental Loading  
+🔹 Data Governance  
+🔹 Data Quality Frameworks  
+🔹 Pipeline Orchestration  
+🔹 Data Warehousing  
+🔹 Batch Processing  
+🔹 Real-Time Data Processing
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
 
