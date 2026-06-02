@@ -94,50 +94,19 @@
 
 
 ## 📫 Connect With Me
-
 ## 📫 Connect With Me
 
-<p align="left">
+🔗 **LinkedIn**  
+https://linkedin.com/in/subhrajit-behera
 
-<a href="https://linkedin.com/in/subhrajit-behera" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="30" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/subhrajit-behera" target="_blank">
-  LinkedIn
-</a>
+📧 **Gmail**  
+mailto:subhrajitbehera6370@gmail.com
 
-<br><br>
+🐙 **GitHub**  
+https://github.com/SubhrjiT
 
-<a href="mailto:subhrajitbehera6370@gmail.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="30" />
-</a>
-&nbsp;
-<a href="mailto:subhrajitbehera6370@gmail.com">
-  Gmail
-</a>
-
-<br><br>
-
-<a href="https://github.com/SubhrjiT" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" width="30" />
-</a>
-&nbsp;
-<a href="https://github.com/SubhrjiT" target="_blank">
-  GitHub
-</a>
-
-<br><br>
-
-<a href="https://instagram.com/suubhhh_" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="30" />
-</a>
-&nbsp;
-<a href="https://instagram.com/suubhhh_" target="_blank">
-  Instagram
-</a>
-
-</p>
+📸 **Instagram**  
+https://instagram.com/suubhhh_
 
 ## ⚡ Fun Fact
 
