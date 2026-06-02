@@ -3,23 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNvY3Exb3ZibDIydjl6b3ZiM2dobHQ5ODl0ZzlrYzBha2pkZnAwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 ### Azure Data Engineer | Microsoft Fabric | Databricks | PySpark | Azure Data Factory
-
----
-
-## 🚀 About Me
-
-🔭 Building end-to-end Data Engineering solutions using Microsoft Fabric, Databricks, and Azure Data Services
-
-🌱 Currently exploring advanced Lakehouse Architectures, Data Governance, and AI-powered Data Platforms
-
-⚡ Skilled in Databricks, Microsoft Fabric, PySpark, SQL, Delta Lake, and Medallion Architecture
-
-☁️ Experienced in Azure Cloud Data Services and enterprise-scale analytics solutions
-
-📊 Passionate about building scalable data pipelines, optimizing performance, and delivering business insights
-
-🤝 Open to collaborating on Data Engineering, Analytics, and Cloud Data Platform projects
-
 ---
 
 ## 🛠️ Tech Stack
