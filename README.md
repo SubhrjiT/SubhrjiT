@@ -99,7 +99,6 @@
 
 🐙 **GitHub**: https://github.com/SubhrjiT
 
-📸 **Instagram**: https://instagram.com/suubhhh_
 
 ## ⚡ Fun Fact
 
