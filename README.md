@@ -91,22 +91,12 @@
 </div>
 
 ---
-
-
-## 📫 Connect With Me
 ## 📫 Connect With Me
 
-🔗 **LinkedIn**  
-https://linkedin.com/in/subhrajit-behera
-
-📧 **Gmail**  
-mailto:subhrajitbehera6370@gmail.com
-
-🐙 **GitHub**  
-https://github.com/SubhrjiT
-
-📸 **Instagram**  
-https://instagram.com/suubhhh_
+🔗 **LinkedIn**: https://linkedin.com/in/subhrajit-behera
+📧 **Gmail**: mailto:subhrajitbehera6370@gmail.com
+🐙 **GitHub**: https://github.com/SubhrjiT
+📸 **Instagram**: https://instagram.com/suubhhh_
 
 ## ⚡ Fun Fact
 
