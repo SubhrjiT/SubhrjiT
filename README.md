@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhrajit Behera</h1>
 
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ### Azure Data Engineer | Microsoft Fabric | Databricks | PySpark | Azure Data Factory
 
@@ -69,9 +69,6 @@
 <!-- Jupyter -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" />
 
-<!-- Tableau -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50" alt="Tableau" />
-
 <!-- Power BI -->
 <img src="https://img.icons8.com/color/96/power-bi.png" height="50" alt="Power BI" />
 
@@ -96,8 +93,6 @@
 <!-- Azure Synapse -->
 <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
-<!-- Azure DevOps -->
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="50" alt="Azure DevOps" />
 
 </div>
 
