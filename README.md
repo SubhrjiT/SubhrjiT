@@ -110,8 +110,3 @@ I love automating workflows, optimizing data pipelines, and turning raw data int
 
 ---
 
-
-###
-<br clear ="both">
-<img src="https://raw.githubusercontent.com/SubhrjiT/SubhrjiT/output/snake.svg" alt="Snake animation" />
-
