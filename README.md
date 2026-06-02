@@ -11,8 +11,12 @@
 - ☁️ Experience with **Azure Data Services & Cloud-based pipelines**
 - 📈 Focused on **scalable data processing & performance optimization**
 ---
-### ⚡ Fun Fact
-I love **automating workflows & optimizing data pipelines** 🚀
+
+## 🌐 Portfolio
+
+🔗 https://subhrajit-portfolio-site.vercel.app/
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhrajit-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-behera" height="30" width="40" /></a>
@@ -94,11 +98,6 @@ I love **automating workflows & optimizing data pipelines** 🚀
 
 ---
 
-## 🌐 Portfolio
-
-🔗 https://subhrajit-portfolio-site.vercel.app/
-
----
 
 ## 📫 Connect With Me
 
@@ -106,23 +105,7 @@ I love **automating workflows & optimizing data pipelines** 🚀
 
 📧 Email: subhrajitbehera6370@gmail.com
 
----
 
-## 📈 Current Focus
-
-✔ Microsoft Fabric
-
-✔ Databricks Lakehouse Platform
-
-✔ Delta Lake
-
-✔ LakeFlow Declarative Pipelines
-
-✔ Enterprise Analytics Platforms
-
-✔ AI-Powered Data Engineering
-
----
 
 ## ⚡ Fun Fact
 
@@ -131,25 +114,6 @@ I love automating workflows, optimizing data pipelines, and turning raw data int
 ---
 
 ⭐ Always learning, building, and exploring modern data platforms.
-
-<h3 align="center">Data Engineer | Microsoft Fabric | Databricks</h3>
-
----
-
----
-
-### 🤝 Collaboration
-- Open to **Data Engineering | Azure | Analytics projects**
-
----
-
-### 🌐 Portfolio
-👉 https://subhrajit-portfolio-site.vercel.app/
-
----
-
-### 📫 Contact
-- 📧 Email: subhrajitbehera6370@gmail.com
 
 ---
 
