@@ -16,12 +16,6 @@
 
 🔗 https://subhrajit-portfolio-site.vercel.app/
 
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhrajit-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-behera" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/suubhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suubhhh_" height="30" width="40" /></a>
 ## 🛠️ Tech Stack
 
 <---
@@ -105,6 +99,11 @@
 
 📧 Email: subhrajitbehera6370@gmail.com
 
+<p align="left">
+<a href="https://linkedin.com/in/subhrajit-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajit-behera" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/suubhhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suubhhh_" height="30" width="40" /></a>
+
 
 
 ## ⚡ Fun Fact
@@ -116,15 +115,6 @@ I love automating workflows, optimizing data pipelines, and turning raw data int
 ⭐ Always learning, building, and exploring modern data platforms.
 
 ---
-
-# 📊 GitHub Stats:
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhrjiT&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 48%;"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhrjiT&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 48%;"/>
-
-</div>
-
 
 
 ###
