@@ -106,8 +106,6 @@ I love **automating workflows & optimizing data pipelines** 🚀
 
 📧 Email: subhrajitbehera6370@gmail.com
 
-📍 Bhubaneswar, Odisha, India
-
 ---
 
 ## 📈 Current Focus
@@ -137,7 +135,6 @@ I love automating workflows, optimizing data pipelines, and turning raw data int
 <h3 align="center">Data Engineer | Microsoft Fabric | Databricks</h3>
 
 ---
-
 
 ---
 
