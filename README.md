@@ -97,8 +97,6 @@
 
 📧 **Gmail**: mailto:subhrajitbehera6370@gmail.com
 
-🐙 **GitHub**: https://github.com/SubhrjiT
-
 
 ## ⚡ Fun Fact
 
