@@ -12,9 +12,7 @@
 - 📈 Focused on **scalable data processing & performance optimization**
 ---
 
-## 🌐 Portfolio
 
-🔗 https://subhrajit-portfolio-site.vercel.app/
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +93,6 @@
 
 🔗 **LinkedIn**: https://linkedin.com/in/subhrajit-behera
 
-📧 **Gmail**: mailto:subhrajitbehera6370@gmail.com
 
 
 ## ⚡ Fun Fact
